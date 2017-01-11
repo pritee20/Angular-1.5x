@@ -1,0 +1,39 @@
+Questions for Angular 1.x
+
+- Explain AngularJS lifecycle hooks.
+- What is dependancy injection in AngularJS?
+- What is deep linking in AngularJS?
+- What is the difference between $scope & $rootScope?
+- How would optimize performance of an angular application?
+- What is the difference between ng-bind and ng-model?
+- What is the difference between one-way binding and two-way binding?
+- What is interpolation in AngularJS?
+- What is the difference between ng-if and ng-hide/ng-show?
+- How would you implement form validations in AngularJS?
+- What is scope hierarchy in AngularJS?
+- Explain difference between Factory and Service.
+- What is provider? any usecase of provider
+- What is constant?
+- What is directive?
+- What is the difference between compile and link function of directive?
+- What should be the maximum number of concurrent “watches”? How would you keep an eye on that number?
+- How do you share data between controllers?
+- What is a digest cycle in AngularJS?
+- Where should we implement the DOM manipulation in AngularJS?
+- How would you specify that a scope variable should have one-time binding only?
+- Explain how $scope.$apply() works
+- What is angular.copy()? Why do we use that?
+- What is promise? and How would you use them in AngularJS?
+- What is the role of restrict, transclude and replace properties in angular directive?
+- How do you isolate scope of an angular directive? explain @, = and & operators.
+- What is the meaning of scope:true and scope:false in angular directive?
+- What is a singleton pattern and where we can find it in Angularjs?
+- What is an interceptor? What are common uses of it?
+- What is compoenent in AngularJS?
+- How do you reset a “$timeout”, and disable a “$watch()”?
+- Name and describe the phases of a directive definition function execution, or describe how directives are instantiated.
+- Difference between angular-route/ng-route and ui-router.
+- Explain what is injector in AngularJS?
+- What is Constants in AngularJS?
+- Explain the concept of scope. How does scope inheritance work in AngularJS?
+
