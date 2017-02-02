@@ -37,7 +37,7 @@ Questions for Angular 1.x
 - What is Constants in AngularJS?
 - Explain the concept of scope. How does scope inheritance work in AngularJS?
 
-[‎2/‎2/‎2017 12:42 PM] Krunal Goswami: 
+
 * What are the data types available in javascript?
 What are the data types available in javascript?
 
