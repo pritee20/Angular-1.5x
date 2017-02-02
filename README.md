@@ -37,3 +37,146 @@ Questions for Angular 1.x
 - What is Constants in AngularJS?
 - Explain the concept of scope. How does scope inheritance work in AngularJS?
 
+[‎2/‎2/‎2017 12:42 PM] Krunal Goswami: 
+* What are the data types available in javascript?
+What are the data types available in javascript?
+
+What is DOM?
+
+What is Shadow DOM?
+
+How can you declare a class in Javascript?
+
+What is Difference between null and undefined?
+
+How can you add a method to a already defined class? 
+
+What is Javascript closures and what are the disadvantages of closures? Give an Example.
+
+What is difference between == and === in javascript?
+
+How to empty an array?
+
+Can we compare two javascript objects? How?
+
+Explain Promise in javascript, implementation promise in javascript.
+
+What is an anonymous function? What are the advantages of anonymous function?
+
+What is ‘use strict’?
+
+What is typeof operator?
+
+What is the instanceof operator in JavaScript?
+
+How to handle exceptions/errors in javascript?
+
+Explain pseudo-classical inheritance vs prototypal Inheritance. Which one is better and why?
+
+List ways of creating javascript classes / object
+
+Difference between Object.create() vs new keyword
+
+What is hoisting?
+
+Explain scope(and types of scope) and context in javascript.
+
+Explain lexical scope.
+
+What are the valid scopes of a variable in Javascript?
+
+What is arguments object in Javascript?
+
+What is callback?
+
+How can you get the reference of a caller function inside a function?
+
+What is IIFE(Immediately-Invoked Function Expression), What are the advantages of it? Why we use that?
+
+How can you get the total number of arguments passed to a function?
+
+Can you name two programming paradigms important for JavaScript app developers?
+
+Explain functional programming paradigm. What is pure function?
+
+What are the pros and cons of functional programming vs object-oriented programming?
+
+When is classical inheritance an appropriate choice?
+
+When is prototypal inheritance an appropriate choice?
+
+Explain these methods call(), apply() and bind(). Explain difference between them.
+
+How do identify an object is of array type?
+
+What is asynchronous programming, and why is it important in JavaScript?
+
+What is event-loop? Explain with diagram.
+
+What are the different types of errors supported by JavaScript?
+
+Explain following design patterns with implementation in javascript.
+
+Singleton, Factory, Observer, Pub-Sub, Module, Prototype, Chain of responsibility. 
+
+What is bubbling?
+
+Write a script to achieve following output.
+
+1.  sum(<number>)(<number>)(<number>)....
+
+    Eg. sum(1)(3)(5) = 9
+
+           sum(2)(1)(4)(5)(2) = 14
+
+2. Print 1 to 10, each in some seconds(eg. 1, 2, 10) of interval.
+
+3. Reverse a string.
+
+4. Sort an object in both direction by key.
+
+5. Write a script to capitalize first letter of each word from given string.
+
+6.  What would be the output of 10+20+"30"?
+
+7. What would be the output of “10”+20+30?
+
+8. What will be the output of the code below?
+
+   var y = 1;
+
+   if (function f(){}){
+
+     y += typeof f;
+
+   }
+
+   console.log(y);
+
+9. What will be the output of the code below
+
+   (function(fname){
+
+this.fname = fname;
+
+   }(“krunal”));
+
+  console.log(fname);
+
+10. How to empty an array in Javascript?
+
+11. Write an output of following code.
+
+                 foo();
+
+                 var foo = function foo(){ 
+
+          return 12; 
+
+      };
+
+12. Write function which prints fibonacci series 
+
+Using regular loop
+
+Using recursive function  
