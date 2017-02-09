@@ -36,7 +36,10 @@ Questions for Angular 1.x
 - Explain what is injector in AngularJS?
 - What is Constants in AngularJS?
 - Explain the concept of scope. How does scope inheritance work in AngularJS?
+- What is decorator in angular js?
 
+<--------------------Js--------------------------------->
+<----------------------JS--------------------------->
 
 * What are the data types available in javascript?
 What are the data types available in javascript?
